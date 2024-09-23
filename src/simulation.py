@@ -1,7 +1,6 @@
-# 6COM2007 - Coursework 2: Simulation Design 
-# Author: Marcelo Hernandez 
-# University of Hertfordshire - ID: 23033126
-# April 25, 2024
+# Simulation Design 
+# Marcelo Hernandez 
+# August 2024
 
 # Libraries
 import tkinter as tk
